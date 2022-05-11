@@ -1,0 +1,111 @@
+site_name: Wiki Minecraft Skyblock
+site_url: https://ens-fr.gitlab.io/experience
+repo_url: https://gitlab.com/ens-fr/experience
+edit_uri: tree/master/docs/
+site_description: Base expérimentale de travail avec MkDocs
+docs_dir: docs
+copyright: |
+    Copyleft 🄯 2022 Timothée VAN DEN BOSCH 
+# Modifier le copyright à votre goût
+
+
+nav:
+    - Minecraft Skyblock: index.md
+    - Listes de fermes avancé: listes_fermes_Avancé.md
+    - Items Minecraft: aide-mémoire.md
+    - Consignes: Consignes.md
+    - Prérequis: prérequis.md
+    - Multijoueurs Infos: Multijoueurs_infos.md
+
+
+
+
+                                    # JUSTIFICATIONS
+theme:
+    name: material
+    font: false                     # RGPD ; pas de fonte Google
+    language: fr                    # français
+    logo: assets/minecraft-block-132715.png 
+    favicon: Image/minecraft-block-132715.png
+    palette:                        # Palettes de couleurs jour/nuit
+      - scheme: default
+        toggle:
+            icon: material/weather-sunny
+            name: Passer au mode nuit
+      - scheme: slate
+        toggle:
+            icon: material/weather-night
+            name: Passer au mode jour
+    features:
+        - navigation.instant
+        - navigation.tabs
+        - navigation.expand
+        - navigation.top
+        - toc.integrate
+        - header.autohide
+
+
+markdown_extensions:
+    - meta
+    - abbr
+
+    - def_list                      # Les listes de définition.
+    - attr_list                     # Un peu de CSS et des attributs HTML.
+    - footnotes                     # Notes[^1] de bas de page.  [^1]: ma note.
+    - admonition                    # Blocs colorés  !!! info "ma remarque"
+    - pymdownx.details              #   qui peuvent se plier/déplier.
+    - pymdownx.caret                # Passage ^^souligné^^ ou en ^exposant^.
+    - pymdownx.mark                 # Passage ==surligné==.
+    - pymdownx.tilde                # Passage ~~barré~~ ou en ~indice~.
+    - pymdownx.highlight:           # Coloration syntaxique du code
+        auto_title: true
+        auto_title_map:
+            "Python": "🐍 Script Python"
+            "Python Console Session": "🐍 Console Python"
+            "Text Only": "📋 Texte"
+            "E-mail": "📥 Entrée"
+            "Text Output": "📤 Sortie"
+    - pymdownx.inlinehilite         # pour  `#!python  <python en ligne>`
+    - pymdownx.snippets             # Inclusion de fichiers externe.
+    - pymdownx.tasklist:            # Cases à cocher  - [ ]  et - [x]
+        custom_checkbox:    false   #   avec cases d'origine
+        clickable_checkbox: true    #   et cliquables.
+    - pymdownx.tabbed:              # Volets glissants.  === "Mon volet"
+        alternate_style: true 
+    - pymdownx.keys:                # Touches du clavier.  ++ctrl+d++
+        separator: "\uff0b"
+    - pymdownx.emoji:               # Émojis  :boom:
+        emoji_index:     !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+
+
+
+    - pymdownx.arithmatex:
+        generic: true
+    - toc:
+        permalink: ⚓︎
+        toc_depth: 3
+    - md_in_html
+
+extra:
+    social:
+        - icon: fontawesome/brands/github # ou autre
+          link: https://github.com/votreid
+        - icon: fontawesome/brands/gitlab # ou autre
+          link: https://gitlab.com/votreid
+        - icon: fontawesome/brands/discord #ou autre
+          link: https://discord.gg/votrecode
+
+extra_javascript:
+  - xtra/mathjax.js                    # MathJax
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - stylesheets/extra.css                      # ajustements
