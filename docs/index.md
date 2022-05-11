@@ -21,7 +21,7 @@ Il y a donc devant nous deux possibilité:
 !!! info "Les modes de Minecraft"
     Minecraft est consistué de deux modes, l'un est le mode _Solo_ où la personne crée son monde et doit survivre ou construire. Et puis nous avons le mode _Multijoueurs_[^multi] qui est donc le principe de jouer avec des joueurs en ligne. 
     Il suffit de se connecter à des "serveurs" en ligne de joueurs où se trouvent des mondes créé par d'autres joueurs. Et en effet dans ces serveurs nous pourrons alors retrouver des mini-jeux tels que le "_Bedwars_" ou encore le "_Skyblock_" !
-    [^multi]: Ce mode est gratuit et facile d'accès, pour plus d'info :[Cliquez-ici](multijoueurs_infos.md)
+    [^multi]: Ce mode est gratuit et facile d'accès, pour plus d'info :[Cliquez-ici](https://google.com)
      
     !!! faq "C'est quoi le Skyblock ?" 
         -Le skyblock d'où son nom en anglais "ciel" et "bloc". En effet le principe est de construire une ile dans le ciel à partir de "block" et en construisant toutes sortes de fermes/machines.
@@ -59,7 +59,7 @@ Il y a donc devant nous deux possibilité:
      
     ???+ danger "Autre Ferme à stone/cobblestone"     
         Vous pourrez trouver une ferme à stone/cobblestone **énorme** et très **complexe**, attention cela est requis que pour ceux qui n'ont pas deux pieds gauche avec de la redstone.
-        [Cliquez-ici](listes_fermes_avancees.md)
+        [Cliquez-ici]("listes_fermes_avancees.md")
 
 ### Des fermes/machines à minerais :
 
