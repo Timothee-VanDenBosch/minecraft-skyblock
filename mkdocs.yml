@@ -13,6 +13,7 @@ nav:
     - Listes de fermes avancé: listes_fermes_avancees.md
     - Items Minecraft: aide-memoire.md
     - Prérequis: prerequis.md
+    - Multijoueurs_infos: multijoueurs_infos.md
     
                                     # JUSTIFICATIONS
 theme:
@@ -89,6 +90,14 @@ markdown_extensions:
     - md_in_html
 
 extra:
+    alternate:
+      - name: French
+        link: 
+        lang: fr
+      - name: English
+        link: /en/
+        lang: en
+    
     social:
         - icon: fontawesome/brands/github # ou autre
           link: https://github.com/votreid
