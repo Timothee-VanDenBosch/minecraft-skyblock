@@ -2,7 +2,7 @@
 
 ---
 
-![Block de terre Minecraft](image/minecraft-block-132715.png "block de terre"){ align=right }
+![Block de terre Minecraft](images/blocs/bloc-terre.png){ align=right }
 
 ## Description Minecraft
 
@@ -21,7 +21,7 @@ Il y a donc devant nous deux possibilité:
 !!! info "Les modes de Minecraft"
     Minecraft est consistué de deux modes, l'un est le mode _Solo_ où la personne crée son monde et doit survivre ou construire. Et puis nous avons le mode _Multijoueurs_[^multi] qui est donc le principe de jouer avec des joueurs en ligne. 
     Il suffit de se connecter à des "serveurs" en ligne de joueurs où se trouvent des mondes créé par d'autres joueurs. Et en effet dans ces serveurs nous pourrons alors retrouver des mini-jeux tels que le "_Bedwars_" ou encore le "_Skyblock_" !
-    [^multi]: Ce mode est gratuit et facile d'accès, pour plus d'info :[Cliquez-ici](Multijoueurs_infos.md)
+    [^multi]: Ce mode est gratuit et facile d'accès, pour plus d'info :[Cliquez-ici](multijoueurs_infos.md)
      
     !!! faq "C'est quoi le Skyblock ?" 
         -Le skyblock d'où son nom en anglais "ciel" et "bloc". En effet le principe est de construire une ile dans le ciel à partir de "block" et en construisant toutes sortes de fermes/machines.
@@ -38,7 +38,7 @@ Il y a donc devant nous deux possibilité:
 
 !!! note "Des fermes à stone/cobblestone"
     Pour commencer un Skyblock il faut tout d'abord des blocks pour élargir son ile.  
-    Pour ce faire nous avons la machine/ferme à cobblestone ![Block de cobblestone](image cobblestone/cobblestone.png "Block de cobblestone"){ width=30 } ou celle à stone ![Block de stone](image stone/stone.png "Block de stone"){ width=30 } , il en existe plusieurs :
+    Pour ce faire nous avons la machine/ferme à cobblestone ![Block de cobblestone](images/blocs/cobblestone.png "Block de cobblestone"){ width=30 } ou celle à stone ![Block de stone](images/blocs/stone.png "Block de stone"){ width=30 } , il en existe plusieurs :
     
     === "La ferme à cobblestone basique :"
         - Rapide et efficace en début de partie mais devient très vite encombrante et longue à casser. 
@@ -47,7 +47,7 @@ Il y a donc devant nous deux possibilité:
     
         - Il est préférable de creuser un trou en-dessous de vous pendant que vous cassez la cobblestone pour miner dans le vide et ainsi ne pas détruire des blocks derrière l'emplacement de la cobblestone généré.
 
-        - [![exemple de ferme à cobblestone](image cobblestone/ferme_à_cobblestone.png "Ferme à cobblestone basique")](video/ferme_à_cobblestone.mp4)   
+        - [![exemple de ferme à cobblestone](images/machines/ferme_%C3%A0_cobblestone.png "Ferme à cobblestone basique")](video/ferme_à_cobblestone.mp4)   
 
     === "Une autre ferme à stone/cobblestone :" 
         - Pas très longue à faire et ne demande pas énormément de ressources : 
@@ -59,12 +59,12 @@ Il y a donc devant nous deux possibilité:
      
     ???+ danger "Autre Ferme à stone/cobblestone"     
         Vous pourrez trouver une ferme à stone/cobblestone **énorme** et très **complexe**, attention cela est requis que pour ceux qui n'ont pas deux pieds gauche avec de la redstone.
-        [Cliquez-ici](listes_fermes_Avancé.md)
+        [Cliquez-ici](listes_fermes_avancees.md)
 
 ### Des fermes/machines à minerais :
 
 !!! note "Des fermes à fer"
-    Dans un Skyblock il vous faudra à un moment ou un autre énormément de fer, pour cela il existe des Fermes à fer, le principe est simple, Mojang (ceux qui s'occupe du jeu Minecraft) ont fait un systeme dès lors où des pnjs[^pnj] ![ Pnj ](image fer/villageois.png "villageois"){ width=30 }sont avec des lits cela forme un village et alors il apparaitra un golem de fer ![Iron golem](image fer/golem_de_fer.png "golem de fer"){ width=30 }. Ce golem de fer si il est tué laissera tombé du fer ![Iron ingot](image fer/iron-ingot.png "Lingot de fer"){ width=30 } sur le sol ainsi qu'une coquelicot ![Flower red](image fer/coquelicot.png "Coquelicot"){ width=30 }.
+    Dans un Skyblock il vous faudra à un moment ou un autre énormément de fer, pour cela il existe des Fermes à fer, le principe est simple, Mojang (ceux qui s'occupe du jeu Minecraft) ont fait un systeme dès lors où des pnjs[^pnj] ![ Pnj ](images/mobs/villageois.png "villageois"){ width=30 }sont avec des lits cela forme un village et alors il apparaitra un golem de fer ![Iron golem](images/mobs/golem_de_fer.png "golem de fer"){ width=30 }. Ce golem de fer si il est tué laissera tombé du fer ![Iron ingot](images/items/lingot-de-fer.png "Lingot de fer"){ width=30 } sur le sol ainsi qu'une coquelicot ![Flower red](images/items/coquelicot.png "Coquelicot"){ width=30 }.
 
     1. Ferme à fer récente et fonctionnelle : [Ferme à fer](https://youtu.be/Pzdwd_oOBkE){ .md-button }
 

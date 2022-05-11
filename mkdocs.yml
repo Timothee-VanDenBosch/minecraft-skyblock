@@ -11,11 +11,10 @@ copyright: |
 
 nav:
     - Minecraft Skyblock: index.md
-    - Listes de fermes avancé: listes_fermes_Avancé.md
-    - Items Minecraft: aide-mémoire.md
-    - Consignes: Consignes.md
-    - Prérequis: prérequis.md
-    - Multijoueurs Infos: Multijoueurs_infos.md
+    - Listes de fermes avancé: listes_fermes_avancees.md
+    - Items Minecraft: aide-memoire.md
+    - Prérequis: prerequis.md
+    - Multijoueurs Infos: multijoueurs_infos.md
 
 
 
