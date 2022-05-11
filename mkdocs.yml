@@ -1,11 +1,10 @@
 site_name: Wiki Minecraft Skyblock
-site_url: https://ens-fr.gitlab.io/experience
-repo_url: https://gitlab.com/ens-fr/experience
+repo_url: https://github.com/NectorCassetete/minecraft-skyblock
 edit_uri: tree/master/docs/
 site_description: Base expérimentale de travail avec MkDocs
 docs_dir: docs
 copyright: |
-    Copyleft 🄯 2022 Timothée VAN DEN BOSCH 
+    Copyright <a href="https://creativecommons.org/licenses/by-nc/2.0/fr/">CC BY-NC 2.0</a> 2022 Timothée VAN DEN BOSCH 
 # Modifier le copyright à votre goût
 
 
@@ -14,15 +13,15 @@ nav:
     - Listes de fermes avancé: listes_fermes_avancees.md
     - Items Minecraft: aide-memoire.md
     - Prérequis: prerequis.md
-    - Multijoueurs Infos: index.md
-
+    
                                     # JUSTIFICATIONS
 theme:
     name: material
+    custom_dir: overrides
     font: false                     # RGPD ; pas de fonte Google
     language: fr                    # français
-    logo: assets/minecraft-block-132715.png 
-    favicon: Image/minecraft-block-132715.png
+    logo: images/blocs/bloc-terre.png 
+    favicon: images/blocs/bloc-terre.png
     palette:                        # Palettes de couleurs jour/nuit
       - scheme: default
         toggle:
@@ -39,7 +38,6 @@ theme:
         - navigation.top
         - toc.integrate
         - header.autohide
-
 
 markdown_extensions:
     - meta
@@ -98,6 +96,8 @@ extra:
           link: https://gitlab.com/votreid
         - icon: fontawesome/brands/discord #ou autre
           link: https://discord.gg/votrecode
+        - icon: fontawesome/regular/envelope #ou autre
+          link: mailto:timotheevdbosch@gmail.com
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

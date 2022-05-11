@@ -47,7 +47,7 @@ Il y a donc devant nous deux possibilité:
     
         - Il est préférable de creuser un trou en-dessous de vous pendant que vous cassez la cobblestone pour miner dans le vide et ainsi ne pas détruire des blocks derrière l'emplacement de la cobblestone généré.
 
-        - [![exemple de ferme à cobblestone](images/machines/ferme_%C3%A0_cobblestone.png "Ferme à cobblestone basique")](video/ferme_à_cobblestone.mp4)   
+        [![exemple de ferme à cobblestone](images/machines/ferme_%C3%A0_cobblestone.png "Ferme à cobblestone basique")](video/ferme_à_cobblestone.mp4)   
 
     === "Une autre ferme à stone/cobblestone :" 
         - Pas très longue à faire et ne demande pas énormément de ressources : 
