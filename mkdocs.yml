@@ -73,7 +73,7 @@ markdown_extensions:
         emoji_index:     !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
 
-
+    - attr_list
     - pymdownx.superfences:
         custom_fences:
           - name: mermaid
@@ -88,10 +88,12 @@ markdown_extensions:
         permalink: ⚓︎
         toc_depth: 3
     - md_in_html
+    
+    
 
 extra:
     alternate:
-      - name: French
+      - name: Français
         link: 
         lang: fr
       - name: English

@@ -91,9 +91,3 @@ Il y a donc devant nous deux possibilité:
     | Pnj | Ferme à Pnj | ✅ | ⭕ |
 
 Vous remarquerez le mot "**entité**" qui correspond à tous items (objets) ou des mobs (des monstres, des animaux, des villageois, et même les joueurs).
-
-
-
-
-
-
