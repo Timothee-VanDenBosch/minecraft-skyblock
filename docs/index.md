@@ -21,7 +21,7 @@ Il y a donc devant nous deux possibilité:
 !!! info "Les modes de Minecraft"
     Minecraft est consistué de deux modes, l'un est le mode _Solo_ où la personne crée son monde et doit survivre ou construire. Et puis nous avons le mode _Multijoueurs_[^multi] qui est donc le principe de jouer avec des joueurs en ligne. 
     Il suffit de se connecter à des "serveurs" en ligne de joueurs où se trouvent des mondes créé par d'autres joueurs. Et en effet dans ces serveurs nous pourrons alors retrouver des mini-jeux tels que le "_Bedwars_" ou encore le "_Skyblock_" !
-    [^multi]: Ce mode est gratuit et facile d'accès, pour plus d'info :[Cliquez-ici](multijoueurs.md)
+    [^multi]: Ce mode est gratuit et facile d'accès, pour plus d'info :[Cliquez-ici](multijoueurs_infos.md)
      
     !!! faq "C'est quoi le Skyblock ?" 
         -Le skyblock d'où son nom en anglais "ciel" et "bloc". En effet le principe est de construire une ile dans le ciel à partir de "block" et en construisant toutes sortes de fermes/machines.
