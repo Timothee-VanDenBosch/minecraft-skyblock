@@ -59,7 +59,7 @@ Il y a donc devant nous deux possibilité:
      
     ???+ danger "Autre Ferme à stone/cobblestone"     
         Vous pourrez trouver une ferme à stone/cobblestone **énorme** et très **complexe**, attention cela est requis que pour ceux qui n'ont pas deux pieds gauche avec de la redstone.
-        [Cliquez-ici]("listes_fermes_avancees.md")
+        [Cliquez-ici](listes_fermes_avancees.md)
 
 ### Des fermes/machines à minerais :
 
@@ -90,4 +90,4 @@ Il y a donc devant nous deux possibilité:
     | Bûche de bois | Ferme à bois | ✅ | ⭕ |
     | Pnj | Ferme à Pnj | ✅ | ⭕ |
 
-Vous remarquerez le mot "**entité**" qui correspond à tous items (objets) ou des mobs (des monstres, des animaux, des villageois, et même les joueurs).
+Vous remarquerez le mot "**entité**" qui correspond à tous items (objets) ou des mobs (des monstres, des animaux, des villageois, et même les joueurs), pour en savoir plus :[Cliquez-ici](entites_minecraft.md)
