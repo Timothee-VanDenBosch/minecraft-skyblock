@@ -26,7 +26,10 @@ Il y a donc devant nous deux possibilité:
     !!! faq "C'est quoi le Skyblock ?" 
         -Le skyblock d'où son nom en anglais "ciel" et "bloc". En effet le principe est de construire une ile dans le ciel à partir de "block" et en construisant toutes sortes de fermes/machines.
 !!! note "Astuces débutant"
+    Le terme crafter ou encore craftable est tiré du mot anglais craft qui signifie artisanat et qui grâce à une table d'artisanat vous ouvrira une interface ou vous pourrez construire des choses à partir d'objets dans le jeu.
     Pour avoir de l'eau à l'infini il vous suffit de placer de l'eau dans un trou de `2x2` un seau d'eau au deux extremités des diagonales. Cela peut fonctionner aussi via une glace qui a été cassé seulement après avoir été posé aux extremités du trou.
+
+Je tiens à dire que ce tuto pour le skyblock est principalement pour la version Java.
         
 ## Minerais/fermes à aquérir au plus vite pour bien débuter :
 
@@ -84,7 +87,7 @@ Vous remarquerez le mot "**entité**" qui correspond à tous items (objets) ou d
 ### Des fermes/machines à minerais :
 
 !!! info "Des fermes à fer"
-    Dans un Skyblock il vous faudra à un moment ou un autre énormément de fer, pour cela il existe des Fermes à fer, le principe est simple, Mojang (ceux qui s'occupe du jeu Minecraft) ont fait un systeme dès lors où des pnjs[^pnj] ![ Pnj ](images/mobs/villageois.png "villageois"){ width=30 }sont avec des lits cela forme un village et alors il apparaitra un golem de fer ![Iron golem](images/mobs/golem_de_fer.png "golem de fer"){ width=30 }. Ce golem de fer si il est tué laissera tombé du fer ![Iron ingot](images/items/lingot-de-fer.png "Lingot de fer"){ width=30 } sur le sol ainsi qu'une coquelicot ![Flower red](images/items/coquelicot.png "Coquelicot"){ width=30 }.
+    Dans un Skyblock il vous faudra à un moment ou un autre énormément de fer, pour cela il existe des Fermes à fer, le principe est simple, Mojang (ceux qui s'occupe du jeu Minecraft) ont fait un systeme dès lors où des pnjs[^pnj] ![ Pnj ](images/Créatures/Neutres/villageois.png "villageois"){ width=30 }sont avec des lits cela forme un village et alors il apparaitra un golem de fer ![Iron golem](images/Créatures/Neutres/golem_de_fer.png "golem de fer"){ width=30 }. Ce golem de fer si il est tué laissera tombé du fer ![Iron ingot](images/items/lingot-de-fer.png "Lingot de fer"){ width=30 } sur le sol ainsi qu'une coquelicot ![Flower red](images/items/coquelicot.png "Coquelicot"){ width=30 }.
 
     1. Ferme à fer récente et fonctionnelle : [Ferme à fer](https://youtu.be/Pzdwd_oOBkE){ .md-button }
 
@@ -95,10 +98,17 @@ Vous remarquerez le mot "**entité**" qui correspond à tous items (objets) ou d
 
 !!! info "Des fermes à or"
     L'or peut servir pour plusieurs chose : pour votre désir personnel d'être riche et vous sentir comme un vrai pirate avedc votre trésor, mais plus concrètement pour vos outils et armures même si ce n'est pas le meilleur matériau en terme de vie mais c'est plutôt efficace sur une courte durée.  
-    Puis vous pouvez faire des aliments dorés pour mieux économiser le manque de nourriture sur Minecraft telles que les carrotes dorées qui sont trés utiles pour la saturation de votre barre de nourriture ou alors très connu les pommes dorées qui peuvent vous donner de la _Régénération_ II (0:05) et de l'_Absorption_ (2:00) qui sont très efficace en combat. Bien sûr ce n'est pas tout mais le reste des items à craft avec de l'or est moins d'avantages utilisé . 
-    Le principe de cette ferme est simple : vous devez mettre des portails du nether pour faire apparaître des piglins autrefois appelé "pigmens" (si cette créature ne vous ai pas familier jetez un coup d'oeil [ici](entites_minecraft.md) ) tombent sous l'effet d'un bonhomme de neige qui tire sur un de ses compatriotes et le force à intervenir et tombent alors dans une coulée d'eau pour ensuite tomber dans un trou qui lui est destiné de tombe et voilà le tour est joué, il vous restera juste à mettre des entonnoirs relier à des coffres pour récuperer son inventaire : des pépites d'or , quelques fois des lingots d'or , sa chair putrifié et une épée en or ( ces objets sont aléatoires donc il se peut que vous ayez pas tout les mêmes items cités juste avant).
+    Puis vous pouvez faire des aliments dorés pour mieux économiser le manque de nourriture sur Minecraft telles que les carrotes dorées qui sont trés utiles pour la saturation de votre barre de nourriture ou alors très connu les pommes dorées qui peuvent vous donner de la _Régénération_ II (0:05) et de l'_Absorption_ (2:00) qui sont très efficace en combat.Bien sûr ce n'est pas tout mais le reste des items à craft avec de l'or est moins d'avantages utilisé . 
     
+    Le principe de cette ferme est simple : vous devez mettre des portails du nether pour faire apparaître des piglins autrefois appelé "pigmens" (si cette créature ne vous ai pas familier jetez un coup d'oeil [ici](entites_minecraft.md) ) tombent sous l'effet d'un bonhomme de neige qui tire sur un de ses compatriotes ( ou bien dans les nouvelles versions du jeu il y a les oeufs de tortue) et le force à intervenir et tombent alors dans une coulée d'eau pour ensuite tomber dans un trou qui lui est destiné de tombe et voilà le tour est joué, il vous restera juste à mettre des entonnoirs relier à des coffres pour récuperer son inventaire : des pépites d'or , quelques fois des lingots d'or , sa chair putrifié et une épée en or ( ces objets sont aléatoires donc il se peut que vous ayez pas tout les mêmes items cités juste avant).
+
+    <iframe width="800" height="562" src="https://www.youtube.com/embed/Ug8TOAt0i8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     !!! note "La pomme de Notch"
         La pomme de Notch est le surnom de la pomme enchanté du créateur de Minecraft. La pomme de Notch n'est pas craftable mais elle est possible à trouver dans les Donjons, les Manoirs, les Portails en ruine du nether, les Mines abandonées, les Temples du désert et les Vestiges de bastion.
-    !!! tip "aquerir de l'**xp** rapidement"
-        Bien que l'xp est une des choses qu'il faut le plus pour enchanter vos armures et vos outils il est difficile d'en avoir beaucoup, pour cela il existe quelques fermes qui peuvent non seulement vous donner l'item à proprier à cette ferme mais aussi énormément d'xp comme les fermes à or, c'est pour moi leur utilité principale sauf si il vous faut absolument beaucoup d'or pour un objectif dans un skyblock ou pour une construction que vous voulez faire. En effet comme dit au-dessus les pigmens pour les fermes à or tombent de dégats de chute et meurent et cela rapporte entre autres des pépites d'or ainsi que de l'xp.
+    !!! tip "Acquerir de l'**xp** rapidement"
+        Bien que l'xp (expérience[^xp]) est une des choses qu'il faut le plus pour enchanter vos armures et vos outils il est difficile d'en avoir beaucoup, pour cela il existe quelques fermes qui peuvent non seulement vous donner l'item à proprier à cette ferme mais aussi énormément d'xp comme les fermes à or, (c'est pour moi leur utilité principale sauf si il vous faut absolument beaucoup d'or pour un objectif dans un skyblock ou pour une construction que vous voulez faire).  
+        En effet comme dit au-dessus les pigmens pour les fermes à or tombent de dégats de chute et meurent et cela rapporte entre autres des pépites d'or ainsi que de l'xp.
+        [^xp]: Petites particules qui s'accumule dans la barre vert au-dessus de la première barre d'inventaire, elle ne peut donc pas être placé dans l'inventaire, l'xp permet de pouvoir enchanter vos outils/armures ou de les réparer via une enclume.
+    !!! danger "ferme à or complexe"
+        Vous pouvez avoir des fermes à or beaucoup plus complexe comme par exemple une ferme du youtubeur Ilmango mais attention cela concerne les joueurs qui jouent à une version inférieur à la version 1.14 de Minecraft car un bug sur la rage des piglins sur le joueur a été fixé.[Cliquez-ici](listes_fermes_avancees.md)
