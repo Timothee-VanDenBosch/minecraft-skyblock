@@ -25,7 +25,27 @@ Il y a donc devant nous deux possibilité:
      
     !!! faq "C'est quoi le Skyblock ?" 
         -Le skyblock d'où son nom en anglais "ciel" et "bloc". En effet le principe est de construire une ile dans le ciel à partir de "block" et en construisant toutes sortes de fermes/machines.
+!!! note "Astuces débutant"
+    Pour avoir de l'eau à l'infini il vous suffit de placer de l'eau dans un trou de `2x2` un seau d'eau au deux extremités des diagonales. Cela peut fonctionner aussi via une glace qui a été cassé seulement après avoir été posé aux extremités du trou.
         
+## Minerais/fermes à aquérir au plus vite pour bien débuter :
+
+!!! info "Des fermes à savoir faire :"
+    Chacune des fermes sont soit Auto[^ip] ou Semi-Auto[^Semi-Auto].
+    
+    [^pnj]: Villageois
+    [^ip]: Automatique, donc la ferme en question n'a pas besoin d'assistance du joueur.
+    [^Semi-Auto]: Semi-Automatique, donc la ferme en question a besoin d'assistance du joueur.
+    
+    | Entités | Fermes |  Semi-Auto | Auto |
+    |----------|--------|:----------:|:----:|
+    | Stone/cobblestone | Ferme à stone/cobblestone | ✅ | ⭕ |
+    | Loot de monstres | Ferme à mobs | ⭕ | ✅ |
+    | Lingot de fer | Ferme à fer | ⭕ | ✅ |
+    | Bûche de bois | Ferme à bois | ✅ | ⭕ |
+    | Pnj | Ferme à Pnj | ✅ | ⭕ |
+
+Vous remarquerez le mot "**entité**" qui correspond à tous items (objets) ou des mobs (des monstres, des animaux, des villageois, et même les joueurs), pour en savoir plus :[Cliquez-ici](entites_minecraft.md)
 
 ## Liste de quelques fermes/machines :
 
@@ -63,7 +83,7 @@ Il y a donc devant nous deux possibilité:
 
 ### Des fermes/machines à minerais :
 
-!!! note "Des fermes à fer"
+!!! info "Des fermes à fer"
     Dans un Skyblock il vous faudra à un moment ou un autre énormément de fer, pour cela il existe des Fermes à fer, le principe est simple, Mojang (ceux qui s'occupe du jeu Minecraft) ont fait un systeme dès lors où des pnjs[^pnj] ![ Pnj ](images/mobs/villageois.png "villageois"){ width=30 }sont avec des lits cela forme un village et alors il apparaitra un golem de fer ![Iron golem](images/mobs/golem_de_fer.png "golem de fer"){ width=30 }. Ce golem de fer si il est tué laissera tombé du fer ![Iron ingot](images/items/lingot-de-fer.png "Lingot de fer"){ width=30 } sur le sol ainsi qu'une coquelicot ![Flower red](images/items/coquelicot.png "Coquelicot"){ width=30 }.
 
     1. Ferme à fer récente et fonctionnelle : [Ferme à fer](https://youtu.be/Pzdwd_oOBkE){ .md-button }
@@ -73,21 +93,9 @@ Il y a donc devant nous deux possibilité:
     3. Ferme à fer dont j'ai aussi utilisé et qui fonctionne plutôt bien aussi : [Autre ferme à fer](https://youtu.be/yaPg9_cQb9U){ .md-button }
 [^pnj]: Villageois
 
-### Minerais/fermes à aquérir au plus vite pour bien débuter :
-
-!!! info "Des fermes à savoir faire :"
-    Chacune des fermes sont soit Auto[^ip] ou Semi-Auto[^Semi-Auto].
-    
-    [^pnj]: Villageois
-    [^ip]: Automatique, donc la ferme en question n'a pas besoin d'assistance du joueur.
-    [^Semi-Auto]: Semi-Automatique, donc la ferme en question a besoin d'assistance du joueur.
-    
-    | Entités | Fermes |  Semi-Auto | Auto |
-    |----------|--------|:----------:|:----:|
-    | Stone/cobblestone | Ferme à stone/cobblestone | ✅ | ⭕ |
-    | Loot de monstres | Ferme à mobs | ⭕ | ✅ |
-    | Lingot de fer | Ferme à fer | ⭕ | ✅ |
-    | Bûche de bois | Ferme à bois | ✅ | ⭕ |
-    | Pnj | Ferme à Pnj | ✅ | ⭕ |
-
-Vous remarquerez le mot "**entité**" qui correspond à tous items (objets) ou des mobs (des monstres, des animaux, des villageois, et même les joueurs), pour en savoir plus :[Cliquez-ici](entites_minecraft.md)
+!!! info "Des fermes à or"
+    L'or peut servir pour plusieurs chose : pour votre désir personnel d'être riche et vous sentir comme un vrai pirate avedc votre trésor, mais plus concrètement pour vos outils et armures même si ce n'est pas le meilleur matériau en terme de vie mais c'est plutôt efficace sur une courte durée. Puis vous pouvez faire des aliments dorés pour mieux économiser le manque de nourriture sur Minecraft telles que les carrotes dorées qui sont trés utiles pour la saturation de votre barre de nourriture ou alors très connu les pommes dorées qui peuvent vous donner de la _Régénération_ II (0:05) et de l'_Absorption_ (2:00) qui sont très efficace en combat. De plus l'or peut servir pour la construction de
+    !!! note "La pomme de Notch"
+        La pomme de Notch est le surnom de la pomme enchanté du créateur de Minecraft. La pomme de Notch n'est pas craftable mais elle est possible à trouver dans les Donjons, les Manoirs, les Portails en ruine du nether, les Mines abandonées, les Temples du désert et les Vestiges de bastion.
+    !!! tip "aquerir de l'**xp** rapidement"
+        Bien que l'xp est une des choses qu'il faut le plus pour enchanter vos armures et vos outils il est difficile d'en avoir beaucoup, pour cela il existe quelques fermes qui peuvent non seulement vous donner l'item à proprier à cette ferme mais aussi énormément d'xp comme les fermes à or, c'est pour moi leur utilité principale sauf si il vous faut absolument beaucoup d'or pour un objectif dans un skyblock ou pour une construction que vous voulez faire. En effet comme dit au-dessus les pigmens pour les fermes à or tombent de dégats de chute et meurent et cela rapporte entre autres des pépites d'or ainsi que de l'xp.
