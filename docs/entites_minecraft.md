@@ -1,8 +1,10 @@
 # Les entités de Minecraft
 
+Minecraft comporte des entités, cela peut être des mobs[^mobs], des objets comme des wagons ![Wagon](images/blocs/wagon.webp "Wagon"){ width=30 } ou des portes-armures ![Porte-armure](images/blocs/porte-armure.webp "Porte-armure"){ width=30 } ou encore des tableaux ![Tableau](images/blocs/tableau.webp "Tableau"){ width=30 }. Mais ce n'est pas tout, tous les objets qui sont laché par terre le deviennent et même les joueurs sont des entités.
+[^mobs]: Monstres/Créatures
 ## Les créatures de Minecraft
 
-!!! info "Mobs pouvant être placé via un oeuf d'apparition ou déjà apparu sur le monde :"
+!!! info "Créatures pouvant être placé via un oeuf d'apparition ou déjà apparu sur le monde :"
     | Mobs hostiles | Images | Mobs passifs | Images | Mobs neutres | Images |
     |---------------|:----------------:|---------------|:---------------:|----------------|:---------------:|
     | Zombie | ![ Zombie ](images/Créatures/Hostiles/zombie.webp "Zombie"){ width=60 } | Cheval | ![ Cheval ](images/Créatures/Passifs/cheval.webp "Cheval"){ width=60 } | Abeille | ![ Abeille ](images/Créatures/Neutres/abeille.webp "Abeille"){ width=60 } |
@@ -36,5 +38,6 @@
     | Cavalier squelette | ![ Cavalier squelette ](images/Créatures/Hostiles/cavalier_squelette.webp "Cavalier squelette"){ width=60 } |
     | Blaze | ![ Blaze ](images/Créatures/Hostiles/blaze.webp "Blaze"){ width=60 } |
     | Araignée chevauchée | ![ Araignée chevauchée ](images/Créatures/Hostiles/araignée_chevauchée.webp "Araignée chevauchée"){ width=60 } |
+    
 
 

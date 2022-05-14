@@ -132,7 +132,7 @@ Vous remarquerez le mot "**entité**" qui correspond à tous items (objets) ou d
         Cependant elle était possible à fabriquer à la version 1.9 avec huits blocs d'or, les fermes à or étaient plus que bénéfique pour avoir ces pommes dorées enchanté c'est la raison pour la quelle j'en parle içi.
 
     !!! tip "L'xp c'est quoi ?"
-        L'xp, de son nom complet "expérience" se présente sous forme de petite boules de particules vertes ![Xp](images/xp.webp "Expérience"){ width=30 }. Elle s'obtient lorsque le joueur tue avec n'importe quels outils une créature ou alors en cuisant des items dans un four et enfin par des fermes comme celle à or.  
+        L'xp, de son nom complet "expérience" se présente sous forme de petite boules de particules vertes ![Xp](images/xp.webp "Expérience"){ width=30 }. Elle s'obtient lorsque le joueur tue avec n'importe quels outils une créature ou alors en cuisant des objets dans un four ![Four](images/blocs/four.webp "Four"){ width=30 } et enfin par des fermes comme celle à or.  
         
         L'expérience se consomme très vite puisqu'elle sert à enchanter vos outils, armures mais aussi de les réparer, d'où la nécessité d'avoir une ferme qui vous en donne.
     !!! danger "Ferme à or complexe"
