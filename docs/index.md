@@ -27,7 +27,7 @@ Il y a donc devant nous deux possibilités:
     !!! faq "C'est quoi le Skyblock ?" 
         -Le skyblock d'où son nom en anglais "ciel" et "bloc". En effet le principe est de construire une ile dans un monde ouvert dans le ciel à partir de "blocs" où vous pourrez vous fixer toutes sortes d'objectifs comme construires des décos, être le plus riche et en construisant toutes sortes de fermes/machines pour exploiter d'autres ressources à fin de vous fixer vos objectifs.
 !!! faq "Eau et Lave infini ?"
-    Pour avoir de l'eau ![Eau](images/sources/eau.webp "Eau"){ width=30 } à l'infini il vous suffit de placer de l'eau dans un trou de `2x2`, deux seaux ![Seau d'eau](images/items/seau_eau.webp "Seau d'eau"){ width=30 } d'eau aux deux extremités des diagonales.  
+    Pour avoir de l'eau ![Eau](images/sources/eau.webp "Eau"){ width=30 } à l'infini il vous suffit de placer de l'eau dans un trou de `2x2`, deux seaux d'eau ![Seau d'eau](images/items/seau_eau.webp "Seau d'eau"){ width=30 } aux deux extremités des diagonales.  
     Cela peut fonctionner aussi via une glace qui a été cassé seulement après avoir été posé aux extremités du trou.
 
     ![Eau infini](images/sources/eau_infini.png "Eau infini"){ width=250 }
@@ -47,7 +47,6 @@ De plus je me penche plus sur le sujet des fermes/machines pour votre survie sky
 !!! info "Des fermes à savoir faire :"
     Chacune des fermes sont soit Auto[^ip] ou Semi-Auto[^Semi-Auto].
     
-    [^pnj]: Villageois
     [^ip]: Automatique, donc la ferme en question n'a pas besoin d'assistance du joueur.
     [^Semi-Auto]: Semi-Automatique, donc la ferme en question a besoin d'assistance du joueur.
     

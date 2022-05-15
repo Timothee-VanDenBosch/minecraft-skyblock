@@ -1,6 +1,6 @@
 site_name: Wiki Minecraft Skyblock
 repo_url: https://github.com/NectorCassetete/minecraft-skyblock
-edit_uri: tree/master/docs/
+edit_uri: ""
 site_description: Base expérimentale de travail avec MkDocs
 docs_dir: docs
 copyright: |
@@ -12,7 +12,7 @@ nav:
     - Minecraft Skyblock: index.md
     - Listes de fermes avancé: listes_fermes_avancees.md
     - Entités Minecraft: entites_minecraft.md
-    - Multijoueurs_infos: multijoueurs_infos.md
+    - Multijoueurs infos: multijoueurs_infos.md
     
                                     # JUSTIFICATIONS
 theme:
@@ -42,7 +42,6 @@ theme:
 markdown_extensions:
     - meta
     - abbr
-
     - def_list                      # Les listes de définition.
     - attr_list                     # Un peu de CSS et des attributs HTML.
     - footnotes                     # Notes[^1] de bas de page.  [^1]: ma note.
@@ -71,7 +70,6 @@ markdown_extensions:
     - pymdownx.emoji:               # Émojis  :boom:
         emoji_index:     !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
-
     - attr_list
     - pymdownx.superfences:
         custom_fences:
@@ -79,16 +77,12 @@ markdown_extensions:
             class: mermaid
             format: !!python/name:pymdownx.superfences.fence_code_format
 
-
-
     - pymdownx.arithmatex:
         generic: true
     - toc:
         permalink: ⚓︎
         toc_depth: 3
     - md_in_html
-    
-    
 
 extra:
     alternate:
@@ -111,6 +105,5 @@ extra:
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
 extra_css:
   - stylesheets/extra.css                      # ajustements
