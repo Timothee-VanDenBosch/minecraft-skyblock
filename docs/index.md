@@ -1,7 +1,6 @@
 # Minecraft Skyblock
 
 ---
-Bonjour 
 
 ![Block de terre Minecraft](images/blocs/bloc-terre.png){ align=right }
 
