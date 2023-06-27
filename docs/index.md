@@ -7,7 +7,7 @@
 ## Description Minecraft
 
 **Minecraft** est un jeu cubique à la fois jeu de _construction_ et d'_aventure_.  
-Il y a donc devant nous deux possibilitéees:
+Il y a donc devant nous deux possibilitéeees:
 
 - Le mode **"survie"** qui consiste à progresser dans le jeu en explorant les quatres coins du monde et en acquérant des "crafts" ( interface où l'on peut fabriquer des objets avec les ressources que l'on a, à partir d'une table de craft, "d'artisanat" ) qui permet d'avoir toutes les ressources du jeu. 
 
@@ -38,7 +38,7 @@ Il y a donc devant nous deux possibilitéees:
     ![Lave infini](images/sources/lave_infini.avif "Lave infini"){ width=250 }
 
 Je tiens à dire que ce tuto pour le skyblock est principalement pour la version Java.  
-De plus je me penche plus sur le sujet des fermes/machines pour votre survie skyblock qui vous permettera d'acquerir plusieurs ressources notamment les principales comme le fer, le butin des montres, et la cobblestone/stone.
+De plus je me penche plus sur le sujet des fermes/machines pour votre survie skyblock qui vous permettera d'acquerir plusieurs ressources notamment les principales comme le fer, le butin des monstres, et la cobblestone/stone.
 
     
         
