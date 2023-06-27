@@ -7,7 +7,7 @@
 ## Description Minecraft
 
 **Minecraft** est un jeu cubique à la fois jeu de _construction_ et d'_aventure_.  
-Il y a donc devant nous deux possibilitéeees:
+Il y a donc devant nous deux possibilitées:
 
 - Le mode **"survie"** qui consiste à progresser dans le jeu en explorant les quatres coins du monde et en acquérant des "crafts" ( interface où l'on peut fabriquer des objets avec les ressources que l'on a, à partir d'une table de craft, "d'artisanat" ) qui permet d'avoir toutes les ressources du jeu. 
 
@@ -107,10 +107,10 @@ Vous remarquerez le mot "**entité**" qui correspond à tous items (objets) ou d
 [^pnj]: Villageois
 
 !!! info "Des fermes à or "
-    L'or peut servir pour plusieurs choses : pour votre désir personnel d'être riche et vous sentir comme un vrai pirate avec votre trésor, mais plus concrètement pour vos outils et armures même si ce n'est pas le meilleur matériau en terme de vie mais c'est plutôt efficace sur une courte durée.  
+    L'or peut servir pour plusieurs choses : pour votre désir personnel d'être riche et vous sentir comme un vrai pirate avec votre trésor, mais plus concrètement pour vos outils et armures même si ce n'est pas le meilleur matériau en terme de vie, mais c'est plutôt efficace sur une courte durée.  
     
     Puis vous pouvez faire de la nourriture dorée pour mieux saturer votre barre de nourriture ![Barre de nourriture](images/Barre_de_nourriture.webp "Barre de nourriture"){ width=120 } :  
-    Les carottes dorées qui sont trés utiles pour la saturation de votre barre de nourriture ou alors très connues les pommes dorées qui peuvent vous donner de la _Régénération_ II (0:05) et de l'_Absorption_ (2:00) qui sont très efficaces en combat.  
+    Les carottes dorées qui sont très utiles pour la saturation de votre barre de nourriture ou alors très connues les pommes dorées qui peuvent vous donner de la _Régénération_ II (0:05) et de l'_Absorption_ (2:00) qui sont très efficaces en combat.  
     Bien sûr ce n'est pas tout mais le reste des items à craft avec de l'or est moins utilisé . 
     
     !!! faq "Comment ça marche une ferme à or ?"
