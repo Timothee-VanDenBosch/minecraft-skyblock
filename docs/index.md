@@ -107,10 +107,10 @@ Vous remarquerez le mot "**entité**" qui correspond à tous items (objets) ou d
 [^pnj]: Villageois
 
 !!! info "Des fermes à or "
-    L'or peut servir pour plusieurs choses : pour votre désir personnel d'être riche et vous sentir comme un vrai pirate avec votre trésor, mais plus concrètement pour vos outils et armures même si ce n'est pas le meilleur matériau en terme de vie mais c'est plutôt efficace sur une courte durée.  
+    L'or peut servir pour plusieurs choses : pour votre désir personnel d'être riche et vous sentir comme un vrai pirate avec votre trésor, mais plus concrètement pour vos outils et armures même si ce n'est pas le meilleur matériau en terme de vie, mais c'est plutôt efficace sur une courte durée.  
     
     Puis vous pouvez faire de la nourriture dorée pour mieux saturer votre barre de nourriture ![Barre de nourriture](images/Barre_de_nourriture.webp "Barre de nourriture"){ width=120 } :  
-    Les carottes dorées qui sont trés utiles pour la saturation de votre barre de nourriture ou alors très connues les pommes dorées qui peuvent vous donner de la _Régénération_ II (0:05) et de l'_Absorption_ (2:00) qui sont très efficaces en combat.  
+    Les carottes dorées qui sont très utiles pour la saturation de votre barre de nourriture ou alors très connues les pommes dorées qui peuvent vous donner de la _Régénération_ II (0:05) et de l'_Absorption_ (2:00) qui sont très efficaces en combat.  
     Bien sûr ce n'est pas tout mais le reste des items à craft avec de l'or est moins utilisé . 
     
     !!! faq "Comment ça marche une ferme à or ?"
