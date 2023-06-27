@@ -6,7 +6,7 @@
 
 ## Description Minecraft
 
-**Minecraft** est un jeu cubique à la fois Jeu de _construction_ et d'_aventure_.  
+**Minecraft** est un jeu cubique à la fois jeu de _construction_ et d'_aventure_.  
 Il y a donc devant nous deux possibilitées:
 
 - Le mode **"survie"** qui consiste à progresser dans le jeu en explorant les quatres coins du monde et en acquérant des "crafts" ( interface où l'on peut fabriquer des objets avec les ressources que l'on a, à partir d'une table de craft, "d'artisanat" ) qui permet d'avoir toutes les ressources du jeu. 
