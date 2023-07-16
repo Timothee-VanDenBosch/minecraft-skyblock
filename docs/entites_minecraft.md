@@ -33,7 +33,7 @@ Minecraft comporte des entités, cela peut être des mobs[^mobs], des objets com
     | Ghast | ![ Ghast ](images/Créatures/Hostiles/ghast.webp "Ghast"){ width=60 } | Morue | ![ Morue ](images/Créatures/Passifs/morue.webp "Morue"){ width=60 } |
     | Gardien | ![ Gardien ](images/Créatures/Hostiles/gardien.webp "Gardien"){ width=60 } | Tortue | ![ Tortue ](images/Créatures/Passifs/tortue.webp "Tortue"){ width=60 } |
     | Évocateur | ![ Évocateur ](images/Créatures/Hostiles/évocateur.webp "Évocateur"){ width=60 } | Poisson tropical | ![ Poisson tropical ](images/Créatures/Passifs/poisson_tropical.webp "Poisson tropical"){ width=60 } |
-    | Endermite | ![ Endermite ](images/Créatures/Hostiles/endermite.webp "Endermite"){ width=60 } | Poisson-globe | 
+    | Endermite | ![ Endermite ](images/Créatures/Hostiles/endermite.webp "Endermite"){ width=60 } | | 
     | Creeper | ![ Creeper ](images/Créatures/Hostiles/creeper.webp "Creeper"){ width=60 } |
     | Cavalier squelette | ![ Cavalier squelette ](images/Créatures/Hostiles/cavalier_squelette.webp "Cavalier squelette"){ width=60 } |
     | Blaze | ![ Blaze ](images/Créatures/Hostiles/blaze.webp "Blaze"){ width=60 } |
