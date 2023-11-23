@@ -13,8 +13,8 @@ nav:
     - Listes de fermes avancées: listes_fermes_avancees.md
     - Entités Minecraft: entites_minecraft.md
     - Multijoueurs infos: multijoueurs_infos.md
-    - Medisup: Médisup-sciences.md
-    - Pour ma chérie d'amour: Cadeau_Claire.md
+    # - Medisup: Médisup-sciences.md
+    # - Pour ma chérie d'amour: Cadeau_Claire.md
     
                                     # JUSTIFICATIONS
 theme:
