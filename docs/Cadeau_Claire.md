@@ -1,4 +1,4 @@
-# Ma chérie d'amour 
+<!-- # Ma chérie d'amour 
 
 ![Cadeau de Claire](images/Cadeau_Claire.jpg "Claire"){ width=1400 }
 
@@ -21,4 +21,4 @@
     Chérie je t'aime _fort_ énormément, <!-- 9 -->  
     Avec toi tout est différent, <!-- 8 -->  
     tu es tellement épatante, <!-- 8 -->  
-    **Ma chérie** je t'aime passionnément. <!-- 9 -->  
+    **Ma chérie** je t'aime passionnément. <!-- 9 -->   -->

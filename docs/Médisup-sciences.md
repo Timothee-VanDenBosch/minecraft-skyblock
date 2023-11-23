@@ -1,4 +1,4 @@
-# Anatomie
+<!-- # Anatomie
 
 ## Séance 4 : Membre Supérieur-Partie 1
 
@@ -32,4 +32,4 @@ On décrit ^^6 régions pour le membre supérieur^^ :
 - ==La main== :
     - Formée des **métacarpiens** et des **phalanges**.
     - Présente la **pince pouce-index** qui permet ^^la préhension fine^^.
-
+ -->
